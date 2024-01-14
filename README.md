@@ -32,6 +32,9 @@ Welcome to my GitHub profile! I would like to start a career in IT. Below you'll
   [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+- **Frameworks:**  
+  [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+  [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 - **Databases:**  
   [![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
   [![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -51,7 +54,7 @@ Welcome to my GitHub profile! I would like to start a career in IT. Below you'll
   [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+  <!--[![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)-->
 - **IDEs:**  
   [![](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
   [![](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
@@ -64,10 +67,19 @@ Welcome to my GitHub profile! I would like to start a career in IT. Below you'll
   [![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 - **Parallel Programming:**  
   [![](https://img.shields.io/badge/OpenMP-0078D4?style=for-the-badge&logo=openmp&logoColor=white)](https://www.openmp.org/)
+- **Security & Penetration Testing:**  
+  [![](https://img.shields.io/badge/OWASP%20ZAP-2E2E2E?style=for-the-badge&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
+  [![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+  [![](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+  [![](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logoColor=white)](http://sqlmap.org/)
+  [![](https://img.shields.io/badge/Burp%20Suite-FF7055?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
+  [![](https://img.shields.io/badge/John%20the%20Ripper-46345e?style=for-the-badge&logoColor=white)](https://www.openwall.com/john/)
+  [![](https://img.shields.io/badge/Hydra-4A90E2?style=for-the-badge&logo=hydra&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+- **Containerization & Operation Systems:**  
+  [![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+  [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
   
-
-
-
 
 ## 📫 Let's Connect!
 

@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Oskar Wal 👨‍💻
 
-Welcome to my GitHub profile! I'm an aspiring software developer eager to kickstart my career in the tech industry. Below, you'll find a glimpse into my journey, skills, and projects that showcase my passion for coding.
+Welcome to my GitHub profile! I would like to start a career in the technology industry. Below you'll find a little more information like about my skills and projects that show my passion for coding.
 
 ## 🌱 About Me
 
